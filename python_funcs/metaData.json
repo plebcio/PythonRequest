@@ -1,0 +1,11 @@
+{
+    "addThree": {
+        "args": ["a", "b", "c"],
+        "comment": "adds 3 values together"
+    },
+
+    "add": {
+        "args": ["a", "b"],
+        "comment": "adds 2 values together"
+    }
+}
