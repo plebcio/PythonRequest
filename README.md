@@ -1,6 +1,7 @@
 # The bestest RPC project ever
 
-## Dependecies
+## Requirements
+* Linux
 * Cmake 3.15 or higher
 * A python3 instalation under /usr/bin
 * A c++20 compatible compiler
