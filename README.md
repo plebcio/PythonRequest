@@ -1,4 +1,4 @@
-# The bestest RPC project ever
+# Python remote procedure call
 
 ## Requirements
 * Linux
